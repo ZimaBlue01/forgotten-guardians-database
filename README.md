@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="docs/Database%20Management%20Project1,%20eduv136908%20(1).png" width="900" alt="The Forgotten Guardians Database Project Banner">
+</p>
+
+
+
+
+
+
+
+
 # 🛡️ The Forgotten Guardians – MMORPG Database Project
 *A complete SQL Database Design & Implementation Project by Muhammed Uwais Adam*  
 *Eduvos – Database Management Project 1*  
