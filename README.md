@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="docs/banner.png" width="900" alt="Project Banner">
+  <img src="docs/docs/banner.png" width="900" alt="Project Banner">
 </p>
-
 
 
 # 🛡️ The Forgotten Guardians – MMORPG Database Project
