@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="Database%20Management%20Project1,%20eduv136908%20(1).png"
-       width="900"
-       alt="The Forgotten Guardians Database Project Banner">
+  <img src="docs/header_banner.png" width="900" alt="The Forgotten Guardians Database Project Banner">
 </p>
-
 
 
 
