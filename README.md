@@ -188,7 +188,6 @@ This project demonstrates:
 
 ## ✍️ Author  
 **Muhammed Uwais Adam**  
-Database Design & Software Engineering  
 Eduvos — Bedfordview Campus  
 
 ---
