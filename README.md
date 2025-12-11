@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="docs/header_banner.png" width="900" alt="The Forgotten Guardians Database Project Banner">
+  <img src="docs/banner.png" width="900" alt="Project Banner">
 </p>
-
-
 
 
 
